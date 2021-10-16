@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ohmat
+- 👀 I’m interested in Javascript AI Machine Learning and Vue Js
+- 🌱 I’m currently learning TensorFlow Js
+- 💞️ I’m looking to collaborate on Ai & ML projects
+- 📫 How to reach me a2900666@icloud.com
